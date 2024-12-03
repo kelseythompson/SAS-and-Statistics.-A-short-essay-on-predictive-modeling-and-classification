@@ -1,0 +1,8 @@
+Predictive modeling and classification are two major areas of study in analytics. Besides logistic regression, CART, or k-NN, find at least one different predictive modeling approach and one classification approach. Describe how each method is used in practice. The choice of an appropriate method depends on various factors such as the specific problem domain, available data, interpretability requirements, and computational resources (Mounier-Kuhn, 2012). These considerations help practitioners select the most suitable approach for their analysis or modeling task. Here are some examples:
+• Naive Bayes is a probabilistic classifier grounded in Bayes’ theorem, assuming that features are conditionally independent given the class label. The practical application of Naïve Bayes for email filtering caught my attention, especially since I frequently use this function in my email. The classifier computes the probability that an email is spam based on the presence of certain words or features.
+• Random Forest, an ensemble learning technique, enhances model accuracy by integrating numerous decision trees. In regression tasks, Random Forest forecasts continuous numerical values, such as predicting whether a credit card holder will default or not (Mounier-Kuhn, 2012).
+
+
+
+References
+Mounier-Kuhn, P. (2012). Computer science in French universities: Early entrants and latecomers. Information & Culture: A Journal of History, 47(4), 414–456.
